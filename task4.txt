@@ -1,0 +1,25 @@
+Mean Average Precision
+ES Built In: 0.0053
+Okapi TF: 0.0049
+TF IDF: 0.0045
+BM25: 0.0049
+LM Laplace:
+LM JM: 0.0016
+
+
+Precision at 10
+ES Built In: 0.032
+Okapi TF: 0.04
+TF IDF: 0.048
+BM25: 0.04
+LM Laplace: 
+LM JM: 0.02
+
+
+Precision at 30
+ES Built In: 0.033
+Okapi TF: 0.032
+TF IDF: 0.032
+BM25: 0.028
+LM Laplace: 
+LM JM: 0.013
