@@ -235,7 +235,7 @@ foreach $topic (sort keys %trec) {	# Process topics in order.
   }
 
 # Now calculate summary stats.
-printf "Error due to %d\n", $num_topics;
+
 for ($i=0; $i<@cutoffs; $i++) {
   $avg_prec_at_cutoffs[$i] = $sum_prec_at_cutoffs[$i]/$num_topics;
   }
